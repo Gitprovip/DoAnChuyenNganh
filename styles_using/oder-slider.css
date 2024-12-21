@@ -1,0 +1,19 @@
+
+.content button{
+    background-color: rgb(1, 34, 25);
+    height: 30px;
+    border-radius: 15px;
+}
+.content a{
+    color: aliceblue;
+    transform: translateY(-7px);
+    font-family: font1;
+}
+.content a:hover{
+    color: rgb(130, 132, 133);
+}
+
+@font-face {
+    font-family: font1;
+    src: url('../font/iCielBC\ Lodestone.ttf');
+}

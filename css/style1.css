@@ -1,0 +1,63 @@
+
+  
+  :root {
+    --green: #27ae60;
+    --light-green:  rgb(106, 230, 106);
+    --black: #192a56;
+    --orange: #ffb674;
+    --dark-orange: #fc8d67;
+    --light-orange: #fec5b1;
+    --green2: #369583;
+    --purple: #8c74ff;
+    --blue: #74bdff;
+    --light-blue: #74e7ff;
+    --light-pink: #ffb3e4;
+    --brown: #564519;
+    --pink: #b48b95;
+    --light-color: #666;
+    --box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  
+
+  
+
+  
+  /************************ Loading *************************/
+
+  
+  a {
+    text-decoration: none;
+  }
+  
+  /* media queries  */
+  
+  @media (max-width: 991px) {
+    html {
+      font-size: 55%;
+    }
+  
+    header {
+      padding: 1rem 2rem;
+    }
+  
+    section {
+      padding: 2rem;
+    }
+  }
+  
+  @media (max-width: 768px) {
+  
+    .home .home-slider .slide .content h3 {
+      font-size: 5rem;
+    }
+  }
+  
+  @media (max-width: 450px) {
+    html {
+      font-size: 50%;
+    }
+  
+  }
+  

@@ -1,0 +1,147 @@
+/*---setup-font---*/
+/*-SFCompactText-*/
+@font-face {
+    font-family:font1;
+    src: url('../font/San_Francisco_Pro/OTF/SFCompactText-BlackItalic.otf');
+}
+@font-face {
+    font-family:font2;
+    src: url('../font/San_Francisco_Pro/OTF/SFCompactDisplay-Bold.otf');
+}
+@font-face {
+    font-family:font3;
+    src: url('../font/San_Francisco_Pro/OTF/SFCompactDisplay-Medium.otf');
+}
+@font-face {
+    font-family:font4;
+    src: url('../font/San_Francisco_Pro/OTF/SFCompactDisplay-Regular.otf');
+}
+@font-face {
+    font-family:font5;
+    src: url('../font/San_Francisco_Pro/OTF/SFCompactDisplay-Heavy.otf');
+}
+@font-face {
+    font-family:font6;
+    src: url('../font/San_Francisco_Pro/OTF/SFCompactDisplay-Semibold.otf');
+}
+@font-face {
+    font-family:font7;
+    src: url('../font/San_Francisco_Pro/OTF/SFCompactText-SemiboldItalic.otf');
+}
+/*--UTM-Font--*/
+@font-face {
+    font-family:font8;
+    src: url('../font/Font_UTM_Full/UTM\ Alexander.ttf');
+}
+@font-face {
+    font-family:font9;
+    src: url('../font/Font_UTM_Full/UTM\ American\ Sans.ttf');
+}
+@font-face {
+    font-family:font10;
+    src: url('../font/Font_UTM_Full/UTM\ CenturBoldItalic.ttf');
+}
+@font-face {
+    font-family:font11;
+    src: url('../font/Font_UTM_Full/UTM\ FacebookK&TBoldItalic.ttf');
+}
+@font-face {
+    font-family:font12;
+    src: url('../font/Font_UTM_Full/UTM\ Facebook.ttf');
+}
+/*-NVN-Melange-Font-*/
+@font-face {
+    font-family:font13;
+    src: url('../font/NVN_Melange_Font/NVN\ Melange.otf');
+}
+/*--OppoSanCN-font--*/
+@font-face {
+    font-family:font14;
+    src: url('../font/OPPOSansVN/OpenType-PS/OPPOSans-VN-Bold.otf');
+}
+@font-face {
+    font-family:font15;
+    src: url('../font/OPPOSansVN/OpenType-PS/OPPOSans-VN-Medium.otf');
+}
+@font-face {
+    font-family:font14;
+    src: url('../font/OPPOSansVN/OpenType-PS/OPPOSans-VN-Regular.otf');
+}
+@font-face {
+    font-family:font15;
+    src: url('../font/OPPOSansVN/OpenType-PS/OPPOSans-VN-Regular.otf');
+}
+/*--San_francisco_Pro-Font--*/
+@font-face {
+    font-family:font16;
+    src: url('../font/San_Francisco_Pro/Variable/SF-Compact-Italic.ttf');
+}
+@font-face {
+    font-family:font17;
+    src: url('../font/San_Francisco_Pro/Variable/SF-Compact.ttf');
+}
+@font-face {
+    font-family:font18;
+    src: url('../font/San_Francisco_Pro/Variable/SF-Pro-Italic.ttf');
+}
+@font-face {
+    font-family:font19;
+    src: url('../font/San_Francisco_Pro/Variable/SF-Pro.ttf');
+}
+/*--BT_Beau_Sans--*/
+@font-face {
+    font-family:font20;
+    src: url('../font/BT_Beau_Sans/BT-BeauSans-Bold.ttf');
+}
+@font-face {
+    font-family:font21;
+    src: url('../font/BT_Beau_Sans/BT-BeauSans-BoldItalic.ttf');
+}
+/*---Add-font---*/
+/*--Products--*/
+.products .box-container .box{
+    font-family: font1;
+}
+.products .box-container .box .cat{
+    font-family: font1;
+}  
+.products .box-container .box .name{
+    font-family: font1;
+} 
+.products .box-container .box .price{
+    font-family: font1;
+} 
+.products .box-container .box .price span{
+    font-family: font1;
+} 
+.products .box-container .box input[type=number]{
+    font-family: font1;
+} 
+/*--View--*/
+.quick-view .box{
+    font-family: font1; 
+}
+.quick-view .box .cat{
+    font-family: font1; 
+}
+.quick-view .box .name{
+    font-family: font1; 
+}
+.quick-view .box .price{
+    font-family: font1; 
+}
+.quick-view .box span{
+    font-family: font1; 
+} 
+.quick-view .box input[type=number]{
+    font-family: font1; 
+}
+.aside-body .text-button h1{
+    font-family:font9 ;
+}
+.aside-body .text-button p{
+    font-family:font12;
+}
+.aside-body .text-button a{
+    font-family: font9;
+}

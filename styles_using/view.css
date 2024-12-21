@@ -1,0 +1,17 @@
+.view form .cart-btn {
+    width: 100%;
+    padding: 1rem 3rem;
+    text-align: center;
+    font-size: 2rem;
+    color:black;
+    cursor: pointer;
+    text-transform: capitalize;
+    background:#b5a79e;
+    margin-top: 1rem;
+ }
+ 
+ .view form .cart-btn:hover {
+    background-color:rgb(20, 109, 211);
+    color: var(--white);
+ }
+
